@@ -1,0 +1,2 @@
+E:\vscodedev\opengl_app\build\Debug\GLAD.pdb
+E:\vscodedev\opengl_app\build\GLAD.dir\Debug\GLAD.pdb

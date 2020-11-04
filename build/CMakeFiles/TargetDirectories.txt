@@ -1,0 +1,4 @@
+E:/vscodedev/opengl_app/build/CMakeFiles/GLAD.dir
+E:/vscodedev/opengl_app/build/CMakeFiles/run.dir
+E:/vscodedev/opengl_app/build/CMakeFiles/ALL_BUILD.dir
+E:/vscodedev/opengl_app/build/CMakeFiles/ZERO_CHECK.dir
